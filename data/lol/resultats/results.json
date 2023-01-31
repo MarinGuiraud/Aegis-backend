@@ -1,0 +1,71 @@
+{
+    "results":
+    [
+        {
+            "name":"LFL Spring 2023",
+            "colonnes":["Victoires", "Défaites"],
+            "teams":[
+                {
+                    "name":"Aegis",
+                    "image":"/assets/img/results/lfl_sping_2023/aegis.png",
+                    "position":1,
+                    "scores":[10,0]
+                },
+                {
+                    "name":"BK ROG Esport",
+                    "image":"",
+                    "position":3,
+                    "scores":[0,0]
+                },
+                {
+                    "name":"GameWard",
+                    "image":"",
+                    "position":2,
+                    "scores":[0,0]
+                },
+                {
+                    "name":"Izi Dream",
+                    "image":"",
+                    "position":5,
+                    "scores":[0,0]
+                },
+                {
+                    "name":"Karmine Corp",
+                    "image":"",
+                    "position":4,
+                    "scores":[0,0]
+                },
+                {
+                    "name":"LDLC OL",
+                    "image":"",
+                    "position":6,
+                    "scores":[0,0]
+                },
+                {
+                    "name":"Solary",
+                    "image":"",
+                    "position":7,
+                    "scores":[0,0]
+                },
+                {
+                    "name":"Team BDS Academy",
+                    "image":"",
+                    "position":10,
+                    "scores":[0,0]
+                },
+                {
+                    "name":"Team GO",
+                    "image":"",
+                    "position":8,
+                    "scores":[0,0]
+                },
+                {
+                    "name":"Vitality Bee",
+                    "image":"",
+                    "position":9,
+                    "scores":[0,0]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "team":
+    [
+        {
+            "role": "Top",
+            "name": "GobGG",
+            "image":"/assets/img/team/lol/gobgg.jpg",
+            "description" : [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "palmares" : [
+                {
+                    "name" : "Spéciale Streamer V",
+                    "classement" : 2,
+                    "date" : "19 octobre 2022"
+                },
+                {
+                    "name" : "Spéciale Streamer IV",
+                    "classement" : 1,
+                    "date" : "8 juillet 2022"
+                },
+                {
+                    "name" : "Spéciale Streamer II",
+                    "classement" : 1,
+                    "date" : "10 novembre 2021"
+                }
+            ],
+            "tags":["Gobinours", "MetalBuff", "Gnar", "Renekton"]
+        },
+        {
+            "role": "Jungle",
+            "name": "Doigby",
+            "image":"/assets/img/team/lol/doigby.jpg",
+            "description" : [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "palmares" : [],
+            "tags":["BestHostEver", "Guerrier", "EliseEnjoyer", "TuEsCapable"]
+        },
+        {
+            "role": "Mid",
+            "name": "Domingo",
+            "image":"/assets/img/team/lol/domingo.jpg",
+            "description" : [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "palmares" : [],
+            "tags":["XerathJhin", "PopCorn", "CoachBizot", "FcSilmi"]
+        },
+        {
+            "role": "ADC",
+            "name": "Nono",
+            "image":"/assets/img/team/lol/nono.jpg",
+            "description" : [
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "palmares" : [],
+            "tags":["JhinXerath", "DravenProPlayer", "HanSamaSensei"]
+        },
+        {
+            "role": "Support",
+            "name": "DrFeelgood",
+            "image":"/assets/img/team/lol/dfg.jpg",
+            "description" : [
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "palmares" : [
+                {
+                    "name" : "Twitch Rivals Among US",
+                    "classement" : 1,
+                    "date" : "13 décembre 2022"
+                }
+            ],
+            "tags":["BardLover", "AegisCEO", "Psychologue", "ChouchouDeUneed"]
+        },
+        {
+            "role": "Coach",
+            "name": "Shaunz",
+            "image":"/assets/img/team/lol/shaunz.jpg",
+            "description" : [
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "palmares" : [],
+            "tags":["DjShuan", "AegisCEO", "PlasticitéCérébrale", "MardiDocu"]
+        }
+    ]
+}

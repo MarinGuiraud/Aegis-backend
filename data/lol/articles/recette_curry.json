@@ -1,0 +1,49 @@
+{
+    "infos":
+    {
+        "title": "Super recette de curry de poulet",
+        "subtitle":"J'avais plus d'idée pour tester le système de pagination, donc voilà la recette Marmitton",
+        "image":"assets/img/article/lol_news/recette_curry/curry_vignette.jpg",
+        "dateOfCreation" : "13 décembre 2022",
+        "link":"aeg_rejoint_la_lfl"
+    },
+    "parts":
+    [
+        {
+            "title": "Pour 4 personnes: ",
+            "content": [],
+            "image":"assets/img/article/lol_news/recette_curry/ingredients.png"
+        },
+        {
+            "title": "ÉTAPE 1",
+            "content": [
+                "Mettre une grande poêle à chauffer. Couper les oignons en petits morceaux, et les faire cuire à feu assez fort."],
+            "image":""
+        },
+        {
+            "title": "ÉTAPE 2",
+            "content": ["Remuer, en ajoutant du curry et du cumin."],
+            "image":""
+        },
+        {
+            "title": "ÉTAPE 3",
+            "content": ["Couper les blancs de poulet en morceaux, les ajouter dans la poêle et remettre des épices; tourner."],
+            "image":""
+        },
+        {
+            "title": "ÉTAPE 4",
+            "content": ["Baisser le feu, et ajouter 2 cuillères à soupe de crème."],
+            "image":""
+        },
+        {
+            "title": "ÉTAPE 5",
+            "content": ["Après 5 min de cuisson, remettre 2 cuillères à soupe de crème et des épices (si nécessaire)."],
+            "image":""
+        },
+        {
+            "title": "ÉTAPE 6",
+            "content": ["Si le plat est fait à l'avance, remettre un peu de crème au moment de réchauffer car la sauce s'évapore."],
+            "image":""
+        }
+    ]
+}

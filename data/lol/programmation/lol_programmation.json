@@ -1,0 +1,21 @@
+{
+    "programmation":
+    [
+        {
+            "title":"LFL Match #1",
+            "adversaire":"Vitality Bee",
+            "date":"Mercredi 18 janvier 2023",
+            "heure":"20h00",
+            "liveName":"Shaunz",
+            "link":"https://www.twitch.tv/shaunz"
+        },
+        {
+            "title":"LFL Match #2",
+            "adversaire":"Gamers Origin",
+            "date":"Jeudi 19 janvier 2023",
+            "heure":"21h00",
+            "liveName":"DrFeelgood",
+            "link":"https://www.twitch.tv/drfeelgood"
+        }
+    ]
+}

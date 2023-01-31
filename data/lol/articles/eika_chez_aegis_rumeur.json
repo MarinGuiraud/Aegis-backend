@@ -1,0 +1,38 @@
+{
+    "infos":
+    {
+        "title": "Eika chez Aegis ?",
+        "subtitle":"Le midlaner français pourait suivre les pas de son manager Lounet et quitter LDLC OL pour Aegis la saison prochaine",
+        "image":"assets/img/article/lol_news/Eika_chez_aegis/eika_vignette.jpeg",
+        "dateOfCreation" : "13 décembre 2022",
+        "link":"lounet_rejoint_aegis"
+    },
+    "parts":
+    [
+        {
+            "title": "Une saison 2021-2022 pleine de succès",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."                        
+            ],
+            "image":"",
+            "video":"",
+            "tweet":"1594740170787545090"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "data":
+    [
+        {
+            "set":8,
+            "guides":
+            [
+                {
+                    "title":"Kayle duelist",
+                    "subtitle":"",
+                    "set":8,
+                    "patch":12.23,
+                    "appoved":"Magarky",
+                    "background_image":"assets/img/guides/tft_guides/kayle_duelist/ban.png",
+                    "images":
+                    [
+                        "assets/img/guides/tft_guides/kayle_duelist/image1.jpg",
+                        "assets/img/guides/tft_guides/kayle_duelist/image2.jpg"
+                    ]
+            
+                }
+            ]
+        },
+        {
+            "set":7.5,
+            "guides":
+            [
+                {
+                    "title":"Graves - Seraphine",
+                    "subtitle":"",
+                    "set":7.5,
+                    "patch":12.21,
+                    "approved":"Maxwell",
+                    "background_image":"assets/img/guides/tft_guides/graves_seraphine/ban.png",
+                    "images":
+                    [
+                        "assets/img/guides/tft_guides/graves_seraphine/image1.jpg",
+                        "assets/img/guides/tft_guides/graves_seraphine/image2.jpg"
+                    ]
+                }
+            ]   
+        }
+    
+    ]
+}

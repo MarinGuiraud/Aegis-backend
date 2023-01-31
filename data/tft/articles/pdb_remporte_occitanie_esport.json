@@ -1,0 +1,56 @@
+{
+    "infos":
+    {
+        "title": "PasDeBol remporte l'Occitanie Esport",
+        "subtitle":"C'est le back to back pour Aegis qui s'impose une fois de plus dans le sud de la France",
+        "image":"",
+        "dateOfCreation" : "27 novembre 2022",
+        "link":"pdb_remporte_occitanie_esport"
+    },
+    "parts":
+    [
+        {
+            "title": "Un Lolo en grande forme",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "image":"",
+            "video":"",
+            "tweet":"1601990158232027136"
+        }, 
+        {
+            "title": "Magarky cursed par shaunz",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "image":"",
+            "video":"",
+            "tweet":""
+        },
+        {
+            "title": "L'étagère Billy bientôt pleine ?",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "image":"",
+            "video":"https://www.youtube.com/embed/06H9CdcTIgk",
+            "tweet":""
+        }
+    ]
+}

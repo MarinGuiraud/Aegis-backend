@@ -1,0 +1,34 @@
+{
+    "infos":
+    {
+        "title": "PasDeBol champion de la DreamHack Hannover",
+        "subtitle":"100% de victoire sur le set 8 !",
+        "image":"",
+        "dateOfCreation" : "27 novembre 2022",
+        "link":"pdb_remporte_dreamhack_hannover"
+    },
+    "parts":
+    [
+        {
+            "title": "Le back to back de PDB, 3ème titre pour Aegis",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "image":"",
+            "video":"",
+            "tweet":"1604456641646432257"
+        }
+    ]
+}

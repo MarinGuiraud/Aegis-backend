@@ -1,0 +1,38 @@
+{
+    "infos":
+    {
+        "title": "Bienvenue Lounet",
+        "subtitle":"L'ancien manager de LDLC OL rejoint les rangs d'Aegis en tant de General Manager",
+        "image":"assets/img/article/lol_news/Lounet_rejoint_aegis/lounet_vignette.jpg",
+        "dateOfCreation" : "13 décembre 2022",
+        "link":"lounet_rejoint_aegis"
+    },
+    "parts":
+    [
+        {
+            "title": "",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            
+                        
+            ],
+            "image": "assets/img/article/lol_news/Lounet_rejoint_aegis/welcome_to_the_party.gif"
+        }
+    ]
+}

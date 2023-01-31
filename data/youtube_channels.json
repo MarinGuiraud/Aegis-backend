@@ -1,0 +1,61 @@
+{
+    "channels":
+    [
+        {
+            "name": "AEGIS",
+            "image":"/assets/img/youtube_channels/aegis.jpg",
+            "background_image":"/assets/img/youtube_channels/aegis_ban.png",
+            "link":"https://www.youtube.com/@Team_Aegis",
+            "tag":"aegis"
+        },
+        {
+            "name": "AEGIS Clips",
+            "image":"/assets/img/youtube_channels/aegis.jpg",
+            "background_image":"/assets/img/youtube_channels/aegis_ban.png",
+            "link":"https://www.youtube.com/@aegis_clips",
+            "tag":"aegis"
+        },
+        {
+            "name": "DJ Shuan",
+            "image":"/assets/img/youtube_channels/shaunz.jpg",
+            "background_image":"/assets/img/youtube_channels/shaunz_ban.png",
+            "link":"https://www.youtube.com/@Shaunz",
+            "tag":"CEO"
+        },
+        {
+            "name": "Mister MV",
+            "image":"/assets/img/youtube_channels/mister_mv.jpg",
+            "background_image":"/assets/img/youtube_channels/mv_ban.png",
+            "link":"https://www.youtube.com/@monsieurmv",
+            "tag":"CEO"
+        },
+        {
+            "name": "DrFeelgood",
+            "image":"/assets/img/youtube_channels/dfg.jpg",
+            "background_image":"/assets/img/youtube_channels/dfg_ban.png",
+            "link":"https://www.youtube.com/@LeGamingAppart",
+            "tag":"CEO"
+        },
+        {
+            "name": "Magarky",
+            "image":"/assets/img/youtube_channels/magarky.jpg",
+            "background_image":"/assets/img/youtube_channels/magarky_ban.png",
+            "link":"https://www.youtube.com/@Magarky",
+            "tag":"TFT"
+        },
+        {
+            "name": "Un33d",
+            "image":"/assets/img/youtube_channels/uneed.jpg",
+            "background_image":"/assets/img/youtube_channels/uneed_ban.png",
+            "link":"https://www.youtube.com/@Un33DTFT",
+            "tag":"TFT"
+        },
+        {
+            "name": "DJ Shuan VOD",
+            "image":"/assets/img/youtube_channels/shaunz_vod.jpg",
+            "background_image":"/assets/img/youtube_channels/shaunz_vod_ban.png",
+            "link":"https://www.youtube.com/@shaunzvod2837",
+            "tag":"VOD"
+        }
+    ]
+}

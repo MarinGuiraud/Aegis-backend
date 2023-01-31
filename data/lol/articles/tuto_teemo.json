@@ -1,0 +1,20 @@
+{
+    "infos":
+    {
+        "title": "Comment bien jouer Teemo :",
+        "subtitle":"Pour bien rendre fou votre adversaire, on vous dévoile tout les secrèts du tristement célèbre yordle",
+        "image":"assets/img/article/lol_news/tuto_teemo/teemo_vignette.jpg",
+        "dateOfCreation" : "14 décembre 2022",
+        "link":"tuto_teemo"
+    },
+    "parts":
+    [
+        {
+            "title": "Vous osez prenjouerdre cette abomination, tout ce que vous méritez c'est :",
+            "content": 
+            [
+            ],
+            "image": "assets/img/article/lol_news/tuto_teemo/get_dunked.gif"
+        }
+    ]
+}

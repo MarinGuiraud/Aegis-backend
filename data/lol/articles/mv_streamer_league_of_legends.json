@@ -1,0 +1,52 @@
+{
+    "infos":
+    {
+        "title": "MV streamer League of Legends ?  ",
+        "subtitle":"Afin de se mettre à niveau pour la LFL, MV se met sur lol à 100%",
+        "image":"assets/img/article/lol_news/Mv_streamer_lol/mv_lol_vignette.jpg",
+        "dateOfCreation" : "14 décembre 2022",
+        "link":"mv_streamer_league_of_legends"
+    },
+    "parts":
+    [
+        {
+            "title": "Un début chaotique",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "image":"",
+            "video":"https://www.youtube.com/embed/ULh1VNqCqCo",
+            "tweet":""
+        },
+        {
+            "title": "Un niveau brillant sur TFT, LoL ne sera qu'une formalité",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "image":"",
+            "video":"https://www.youtube.com/embed/eUPiTE_wtDQ",
+            "tweet":""
+        },
+        {
+            "title": "",
+            "content": 
+            [
+                "Attention, comme indiqué sur l'acceuil, ce site est un prototype ! Ne pas croire tout ce que vous lisez :)"
+            ],
+            "image":"",
+            "video":"",
+            "tweet":""
+        }
+    ]
+}

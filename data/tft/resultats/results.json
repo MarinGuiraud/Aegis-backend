@@ -1,0 +1,107 @@
+{
+    "results":
+    [
+        {
+            "name":"HexLeague Split 1",
+            "colonnes":["Round 1", "Round 2", "Round 3", "Round 4", "Total"],
+            "teams":[
+                {
+                    "name":"IAMTLT",
+                    "image":"/assets/img/results/lfl_sping_2023/aegis.png",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"TARTEMAN",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"XPERION",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"DOUBLE 61",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"PASDEBOL",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"GHEED",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"CANBIZZ",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"MATELAS DE VOLTA",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"UNEED",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"VOLTARIUX",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"TEXITA",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"LYYYRES",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"ZORO5773",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"L3S COCO",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"ZYKOO",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                },
+                {
+                    "name":"MAGARKY",
+                    "image":"",
+                    "position":1,
+                    "scores":[0, 0, 0, 0, 0]
+                }
+            ]
+        }
+    ]
+}

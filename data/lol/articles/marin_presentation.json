@@ -1,0 +1,130 @@
+{
+    "infos":
+    {
+        "title": "Marin Guiraud",
+        "subtitle":"Interview d'un ingénieur du chat de Shaunz",
+        "image":"",
+        "dateOfCreation" : "13 janvier 2023",
+        "link":"marin_presentation"
+    },
+    "parts":
+    [
+        {
+            "title": "",
+            "content": 
+            [
+                "Gérer une carrière d'ingénieur en freelance, passer diamant sur TFT et se former à une nouvelle technologie afin de créer ce site n'est pas une mince à faire. ",
+                "Pourtant, Marin Guiraud, 27 ans est parvenu à tout allier afin de vous proposer aujourd'hui ce prototype de site Aegis. ",
+                "Découvrons ensemble le profil particulier de cet ingénieur qui aimerait grandement passer de l'autre côté de l'écran."
+            ],
+            "image": "assets/img/article/lol_news/Marin_presentation/portrait.jpeg"
+        },
+        {
+            "title": "Bonjour Marin, comment allez vous ?",
+            "content": 
+            [
+                "Bonjour, merci de me recevoir. Je suis très heureux et reconnaissant de pouvoir vous présenter aujourd'hui le ",
+                "fruit de mes travaux."
+            ],
+            "image": ""
+        },
+        {
+            "title": "Reprenons un peu en arrière, racontez-nous rapidement votre parcours universitaire.",
+            "content": 
+            [
+                "J'ai un un parcours universitaire assez traditionnel. J'ai rejoint l'ISEN de Lille (institut supérieure de l'électronique et du numérique)",
+                "une fois mon bac en poche. Je suis resté dans le nord de la France pendant 4 ans, le temps de faire mon cycle préparatoire intégré puis de me spécialiser dans la branche informatique. ",
+                "J'ai alors commencé à me former plus sérieusement à la programmation mais également à la sécurité informatique. ",
+                "Pour ma 5ème année j'ai eu la chance de partir à l'université de Kookmin en Corée du sud, c'était incroyable ! En septembre 2018, j'ai obtenu mon diplôme d'ingénieur."
+            ],
+            "image": ""
+        },
+        {
+            "title": "La machine est lancée, vous plongez dans le monde du travail ?",
+            "content": 
+            [
+                "Pas exactement. J'ai décidé de refuser le CDI offert à la fin de mon stage de fin d'étude afin de partir voyager. ",
+                "Je pense que c'était important pour savoir plus précisément ce que je voulais faire, prendre du recul. Je travaillais en stage pour une agence de publicité numérique ",
+                "et ce n'était pas vraiment un domaine qui m'intéressait. "
+            ],
+            "image": ""
+        },
+        {
+            "title": "Vous intégrez ensuite Altran ou vous y restez près de 2 ans et demi. Etait-ce cette fois une décision portée par l'intéret pour le projet ?",
+            "content": 
+            [
+                "Le projet était interessant par son envergure mais c'était surtout la technologie utilisée qui m'a donnée envie de rejoindre l'équipe. ",
+                "J'avais à l'époque envie de travailler dans le jeu vidéo. Je n'avais pas eu l'opportunité pendant mes études d'apprendre le C++, language de programmation essentiel dans le domaine. ",
+                "J'ai donc avant tout cherché un projet sur lequel je pouvais me former. C'est Altran qui a misé sur moi en m'envoyant sur une grosse mission alors que j'avais presque tout à apprendre. ",
+                "J'avais quelques bases qui m'ont aidé et j'ai rapidement progressé, j'ai adoré ça ! "
+            ],
+            "image": ""
+        },
+        {
+            "title": "Malgré votre situation stable, vous décidez fin 2021 de tout quitter pour devenir auto-entrepreneur. Pourquoi ce changement de cap ?",
+            "content": 
+            [
+                "C'était le bon moment pour le faire avant tout. J'avais cette idée de combiner mon travail et mon envie ",
+                "de repartir explorer le monde en tête depuis un moment. Quand les mesures de confinement liées au Covid sont progressivement tombées, j'ai décidé de faire le grand pas. ",
+                "Cela fait un an maintenant que je suis freelance et j'ai pu, comme je le voulais, travailler sur différents projets tout en roulant ma bosse en Europe. ",
+                "J'ai même trouvé le temps de faire ce site, ce qui m'a permis de me reformer aux technologies du web mais surtout, je l'éspère, d'aider la structure e-spostive Aegis. "
+            ],
+            "image": ""
+        }
+        ,
+        {
+            "title": "Mais alors pourquoi vouloir de nouveau changer pour travailler avec Aegis ?",
+            "content": 
+            [
+                "Quand on devient ingénieur, on nous explique souvent qu'on est là pour répondre à un besoin. ",
+                "On à l'image de l'ingénieur qui bricole, qui innove afin de faciliter sa vie et celle des autres. ",
+                "J'avoue que je n'ai pas vraiment eu ce sentiment sur mes anciennes missions et je trouve que le projet porté par Aegis me correpsond d'avantage. ",
+                "J'espère pouvoir apporter ma pierre à l'édifice et bien plus m'épanoir professionnellement. ",
+                "L'idée m'est venue car, n'ayant pas Twitter, je manquais une bonne partie des compétitions liées à TFT. ",
+                "Je ne trouvais pas un endroit pour pouvoir suivre les programmations et les résultats des différents tournois, un peu à l'image du site de la stucture Mandatory. ",
+                "J'ai donc imaginé, surtout avec la diversification d'Aegis, qu'un site internet était une bonne idée. ",
+                "Un endroit pour suivre les prochains rendez-vous sur les différents jeux, des liens vers les streams en cours, ",
+                "des articles sur l'actualité de l'équipe ou de la scène compétitive ainsi que des guides fraichement concoctés par Magarky."
+            ],
+            "image": ""
+        },
+        {
+            "title": "Et pourquoi Aegis et non pas la Karmine Corp par exemple ?",
+            "content": 
+            [
+                "Il y a plusieurs raisons à ça. La première est que je me retrouve d'avantage dans le projet. ",
+                "Je regarde depuis longtemps les streams de Shaunz et Mister MV et, depuis la création de la structure, du reste de l'équipe mais je ne peux pas en dire autant de Kameto par exemple. ",
+                "De plus, les jeux sur lesquels Aegis sont présents sont des jeux que je connais bien. Je joue à League of Legends depuis plus de 10 ans et j'ai toujours suivi attentivement la scène compétitive française et internationnale. ",
+                "Je n'ai découvert TFT que plus récemment, avec l'arrivée du fantastique set 6 et j'ai rapidement beaucoup aimé le jeu, étant un ancien joueur de Hearthstone Battleground. ",
+                "Je suis tombé par hasard sur les streams de la Golden Spatula Cup puis des championnats du monde et j'avoue avoir accroché instantanément à la compétition. ",
+                "Je connais donc bien les jeux sur lesquels la structure est présente. Avec Mister MV dans l'équipe j'imagine que Street Fighter VI ou le jeu de combat de chez Riot Games sont pour bientôt. ",
+                "Etant moi même amateur du genre, j'ai hâte de voir ça arriver et participer à ces futures aventures à vos côté serait une chance et un plaisir."
+            ],
+            "image": ""
+        },
+        {
+            "title": "Pour finir, que pensez-vous pouvoir faire pour Aegis ?",
+            "content": 
+            [
+                "J'espère déjà perfectionner ce site. C'est prototype pour montrer ce qu'il est possible de faire. ",
+                "Ce serait génial de le terminer et qu'il puisse servir ! Rassembler les communautés des différents acteurs de la structure sur le site via ",
+                "l'utilisation des points de chaines ou encore l'organisation de tounois sont des projets que j'aimerai mettre en oeuvre. L'idée serait qu'ensembe ce site grandisse et que je puisse participer à son évolution. ",
+                "Je fait du montage vidéo et j'adorerais pourvoir aider à la création de 'best-of' hebdomadaires sur la Hexleague et la LFL. ",
+                "J'ai toujours aimé suivre les différentes structures via leur contenu Youtube. Je trouve que cela permet de renforcer le lien entre les joueurs et leurs supporters. J'aimerais aider à créer encore plus de contenu de ce genre avec Aegis. ",
+                "Au sein de l'équipe d'Aegis, participer à l'écriture d'articles pour site, me plairait bien. J'ai déjà eu la chance il y quelques années d'écrire au sein d'un projet de blog musical. ",
+                "Et ça serait bien d'avoir autre chose que des articles en latin ! "
+            ],
+            "image": ""
+        },
+        {
+            "title": "",
+            "content": 
+            [
+                "J'espère que ce site me permette de monter ma motivation et mon envie de travailler avec Aegis. ",
+                "Ce serait génial d'avoir l'opportunité d'en parler avec vous !"
+            ],
+            "image": ""
+        }
+
+    ]
+}

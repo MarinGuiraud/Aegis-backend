@@ -1,0 +1,61 @@
+{
+    "news":
+    [
+        {
+            "title": "Mais qui est Marin ?",
+            "subtitle": "A la découverte du mystérieux homme qui se cache derrière ce site",
+            "image":"/assets/img/article/lol_news/Marin_presentation/mystere_vignette.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"marin_presentation"
+        },
+        {
+            "title": "Bienvenue Lounet",
+            "subtitle": "L'équipe s'agrandit avec un nouveau Manager Esport",
+            "image":"/assets/img/article/lol_news/Lounet_rejoint_aegis/lounet_vignette.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"lounet_rejoint_aegis"
+        },
+        {
+            "title": "Eika chez Aegis ?",
+            "subtitle": "Selon la rumeur, le joueur pourrait quitter LDLC pour la saison 2023",
+            "image":"assets/img/article/lol_news/Eika_chez_aegis/eika_vignette.jpeg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"eika_chez_aegis_rumeur"
+        },
+        {
+            "title": "Résumé de la présaison !",
+            "subtitle": "On fait le tour des changements à venir sur la faille de l'invocateur",
+            "image":"/assets/img/article/lol_news/presaison_2023/presaison_2023.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"presaison_lol_13"
+        },
+        {
+            "title": "SHIELDS UP : Aegis rejoint la LFL !",
+            "subtitle": "C'est un grand jour pour Aegis",
+            "image":"/assets/img/article/lol_news/Aeg_en_lfl/lfl_vignette.png",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"aegis_rejoint_la_lfl"
+        },
+        {
+            "title": "Mister MV streamer League of Legends !?",
+            "subtitle": "Le run du ragequit le plus rapide pour préparer speedon ?",
+            "image":"/assets/img/article/lol_news/Mv_streamer_lol/mv_lol_vignette.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"mv_streamer_league_of_legends"
+        },
+        {
+            "title": "Petit tuto pour bien jouer Teemo",
+            "subtitle": "Comment rendre fou son adversaire tout en gagant des LPs",
+            "image":"/assets/img/article/lol_news/tuto_teemo/teemo_vignette.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"tuto_teemo"
+        },
+        {
+            "title": "Ma recette de curry de poulet",
+            "subtitle": "Un recette gardée secrète enfin dévoilée pour votre plus grand plaisir",
+            "image":"assets/img/article/lol_news/recette_curry/curry_vignette.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"recette_curry"
+        }
+    ]
+}

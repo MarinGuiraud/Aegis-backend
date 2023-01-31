@@ -1,0 +1,87 @@
+{
+    "team":
+    [
+        {
+            "role": "PasDeBol",
+            "name": "PasDeBol",
+            "image":"/assets/img/team/tft/pdb.jpg",
+            "description" : [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "palmares" : [
+                {
+                    "name" : "FreshCup #7",
+                    "classement" : 1,
+                    "date" : "19 décembre 2022"
+                },
+                {
+                    "name" : "Dreamhack Hannover 2022",
+                    "classement" : 1,
+                    "date" : "18 décembre 2022"
+                },
+                {
+                    "name" : "Occitanie Esport",
+                    "classement" : 1,
+                    "date" : "11 décembre 2022"
+                }
+
+            ],
+            "tags":["OccitanieEsport", "FreshCup", "Dreamhack", "BackToBackToBack", "Top1/Top8", "Lolo"]
+        },
+        {
+            "role": "Magarky",
+            "name": "Magarky",
+            "image":"/assets/img/team/tft/magarky.jpg",
+            "description" : [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "palmares" : [
+                {
+                    "name" : "Toulouse Game Show",
+                    "classement" : 1,
+                    "date" : "27 novembre 2022"
+                }
+            ],
+            "tags":["ToulouseGameShow", "RerollKayle", "WarwickEnjoyer", "HommeAuBob"]
+        },
+        {
+            "role": "Un33d",
+            "name": "Un33d",
+            "image":"/assets/img/team/tft/uneed.jpg",
+            "description" : [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "palmares" : [
+                {
+                    "name" : "Toulouse Game Show",
+                    "classement" : 3,
+                    "date" : "27 novembre 2022"
+                }
+            ],
+            "tags":["ChauveBuff", "WowPlayer", "Zinzito", "ChouchouDeDFG"]
+        }
+    ]
+}

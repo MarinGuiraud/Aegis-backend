@@ -1,0 +1,45 @@
+{
+    "programmation":
+    [
+        {
+            "title":"La spéciale Streamers PRO",
+            "adversaire":"FFA",
+            "date":"Mercredi 11 janvier 2023",
+            "heure":"19h00",
+            "liveName":"Shaunz",
+            "link":"https://www.twitch.tv/shaunz"
+        },
+        {
+            "title":"HexLeague Split 1 Jour 1",
+            "adversaire":"FFA",
+            "date":"Lundi 23 janvier 2023",
+            "heure":"18h30",
+            "liveName":"Shaunz",
+            "link":"https://www.twitch.tv/shaunz"
+        },
+        {
+            "title":"HexLeague Split 1 Jour 2",
+            "adversaire":"FFA",
+            "date":"Mardi 24 janvier 2023",
+            "heure":"18h30",
+            "liveName":"Shaunz",
+            "link":"https://www.twitch.tv/shaunz"
+        },
+        {
+            "title":"HexLeague Split 1 Jour 3",
+            "adversaire":"FFA",
+            "date":"Lundi 30 janvier 2023",
+            "heure":"18h30",
+            "liveName":"Shaunz",
+            "link":"https://www.twitch.tv/shaunz"
+        },
+        {
+            "title":"HexLeague Split 1 Jour 4",
+            "adversaire":"FFA",
+            "date":"Lundi 6 février 2023",
+            "heure":"18h30",
+            "liveName":"Shaunz",
+            "link":"https://www.twitch.tv/shaunz"
+        }
+    ]
+}

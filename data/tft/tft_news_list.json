@@ -1,0 +1,34 @@
+{
+    "news":
+    [
+        {
+            "title": "Mais qui est Marin ?",
+            "subtitle": "A la découverte du mystérieux homme qui se cache dérierre ce site",
+            "image":"/assets/img/article/lol_news/Marin_presentation/mystere_vignette.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"../lol_news/marin_presentation"
+        },
+        {
+            "title": "PasDeBol remporte la Dreamhack Hannover",
+            "subtitle": "Aegis commence sa conquête de l'europe",
+            "image":"/assets/img/article/tft_news/pdb_remporte_dreamhack_hannover/vignette.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"pdb_remporte_dreamhack_hannover"
+        },
+        {
+            "title": "PasDeBol champion de l'Occitanie Esport",
+            "subtitle": "Aegis effectue le back to back !",
+            "image":"/assets/img/article/tft_news/pdb_remporte_occitanie_esport/vignette.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"pdb_remporte_occitanie_esport"
+        },
+        {
+            "title": "Magarky remporte le Toulouse Game Show !",
+            "subtitle": "Un résumé du dernier TGS",
+            "image":"/assets/img/article/tft_news/magarky_remporte_tgs/vignette.jpg",
+            "dateOfCreation" : "2022-11-1T16:00:00Z",
+            "link":"magarky_remporte_le_tgs"
+        }
+        
+    ]
+}

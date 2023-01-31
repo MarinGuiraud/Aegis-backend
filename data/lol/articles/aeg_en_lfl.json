@@ -1,0 +1,60 @@
+{
+    "infos":
+    {
+        "title": "SHIELDS UP : Aegis rejoint la LFL pour la saison 2023",
+        "subtitle":"Après une longue attente, la nouvelle est enfin tombée. La structure française présente sur TFT rejoint la LFL !",
+        "image":"assets/img/article/lol_news/Aeg_en_lfl/lfl_vignette.png",
+        "dateOfCreation" : "13 décembre 2022",
+        "link":"aeg_rejoint_la_lfl"
+    },
+    "parts":
+    [
+        {
+            "title": "La structure française choisie par Riot",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "image":"assets/img/article/lol_news/Aeg_en_lfl/aeg_presentation.jpg",
+            "video":"",
+            "tweet":""
+        }, 
+        {
+            "title": "Encore une masterclasse sur l'annonce en vidéo !",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "image":"",
+            "video":"https://www.youtube.com/embed/Tj8IlurFzb4",
+            "tweet":""
+        },
+        {
+            "title": "Une équipe qui se forme doucement",
+            "content": 
+            [
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute.",
+                "Quis ex ea ullamco anim. Consectetur velit esse aliqua consequat est ut est elit.",
+                "Esse proident consequat tempor deserunt cillum dolore elit do nostrud exercitation labore tempor.",
+                "Elit esse proident excepteur amet labore ea mollit aute voluptate culpa proident." ,
+                "Nulla dolor elit sit do commodo ullamco tempor laborum dolore ipsum aliquip. Eiusmod eu ea tempor eu voluptate irure nulla dolore enim culpa cupidatat magna aute."
+            ],
+            "image":"assets/img/article/lol_news/Aeg_en_lfl/composition_rumeur.png",
+            "video":"",
+            "tweet":""
+        }
+    ]
+}
